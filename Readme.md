@@ -1,2 +1,2 @@
 # Hello
-![Home Screen](/Assets/Home.png)
+![Home Screen](Assets/Home.png)
